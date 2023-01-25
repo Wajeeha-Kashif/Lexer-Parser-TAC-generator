@@ -18,7 +18,7 @@ public class Main {
         Scanner myObj = new Scanner(System.in);
         String filename;
 
-//********************************** main for lexer *****************************
+//********************************** main for lexer ******************************
 
         // Enter filename and press Enter
 
