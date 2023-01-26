@@ -10,7 +10,7 @@ public class parser {
 
 
     public void callParser( String filename) throws IOException {
-         obj.readFile(filename);
+         // obj.readFile(filename);
         // it will read tokens.txt file and proceed with each token
     }
 
