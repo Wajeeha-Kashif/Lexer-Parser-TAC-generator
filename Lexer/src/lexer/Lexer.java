@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 
 public class Lexer {
-    String[] keywords;  // already declared keywords ist
+    String[] keywords;   already declared keywords ist
     int state;     // DFA state is initially 0. Keeps track of DFA states
     StringBuffer identifier ;   // to store variables
     StringBuffer literalValue;  // to store literal i.e. single quote letters/words
